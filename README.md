@@ -1,2 +1,2 @@
 # learn
-Repositório com POC de aprendisados
+Repositório com POCs.
